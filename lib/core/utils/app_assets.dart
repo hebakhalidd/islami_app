@@ -11,4 +11,10 @@ class AppAssets {
   static const String iconRadio = 'assets/images/ic_radio.png';
   static const String iconTime = 'assets/images/ic_time.png';
   static const String iconHadeth = 'assets/images/ic_hadeth.png';
+  static const String imgBranding = 'assets/images/img_branding.png';
+  static const String islami = 'assets/images/Group.png';
+  static const String quran = 'assets/images/quran.png';
+  static const String Bearish = 'assets/images/bearish.png';
+  static const String holyQuran = 'assets/images/mic.png';
+  static const String game3 = 'assets/images/Frame 3.png';
 }
